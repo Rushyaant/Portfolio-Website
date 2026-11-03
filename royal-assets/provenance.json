@@ -1,0 +1,349 @@
+{
+  "scope": "User-supplied game assets, local comparison only",
+  "assets": [
+    {
+      "file": "menu.webp",
+      "source": "BASE.CPK/CAMP/HEROTEX/P5_CAMPTOP_2D.DDS",
+      "crop": [
+        237,
+        13,
+        1800,
+        1386
+      ],
+      "dimensions": [
+        1563,
+        1373
+      ],
+      "completeDecompression": true,
+      "sha256": "3f70cb2e25a5ded59f148f4613bb16476317f42318aef921051a5c8723920d0d"
+    },
+    {
+      "file": "equip.webp",
+      "source": "BASE.CPK/CAMP/HEROTEX/P5_CAMPEQUIP_2D01.DDS",
+      "crop": [
+        0,
+        0,
+        1634,
+        1061
+      ],
+      "dimensions": [
+        1600,
+        1039
+      ],
+      "completeDecompression": true,
+      "sha256": "e6e550eaab56db1a39ac6e3aa86bcbf146200f6b62c0d74c93553c355639d5e4"
+    },
+    {
+      "file": "profile.webp",
+      "source": "BASE.CPK/CAMP/HEROTEX/P5_CAMPCOOP_2D02.DDS",
+      "crop": [
+        94,
+        52,
+        1154,
+        1360
+      ],
+      "dimensions": [
+        1060,
+        1308
+      ],
+      "completeDecompression": true,
+      "sha256": "640346ee2b9aa04b3a91f44c353f88f551969cf85f1f6260202d213f6becbab0"
+    },
+    {
+      "file": "skill.webp",
+      "source": "BASE.CPK/CAMP/HEROTEX/P5_CAMPSKILL_2D01.DDS",
+      "crop": [
+        0,
+        0,
+        1576,
+        1337
+      ],
+      "dimensions": [
+        1576,
+        1337
+      ],
+      "completeDecompression": true,
+      "sha256": "342b1cc7f3fa3d99078f2286440753d45668ac5e4a57e1da83f9666c860faf89"
+    },
+    {
+      "file": "missions.webp",
+      "source": "BASE.CPK/CAMP/HEROTEX/P5_CAMPMISSION_2D.DDS",
+      "crop": [
+        0,
+        231,
+        1127,
+        1366
+      ],
+      "dimensions": [
+        1127,
+        1135
+      ],
+      "completeDecompression": true,
+      "sha256": "e8103d494fd1a1296c9622343f84d9cba94884ba5c0279bcbfd34edbd3039f22"
+    },
+    {
+      "file": "item.webp",
+      "source": "BASE.CPK/CAMP/HEROTEX/P5_CAMPITEM_2D01.DDS",
+      "crop": [
+        39,
+        0,
+        1538,
+        1341
+      ],
+      "dimensions": [
+        1499,
+        1341
+      ],
+      "completeDecompression": true,
+      "sha256": "b61f1a6fd2232d18826062338a91e2cd51eb24555fba9ee43b9dc0a761862840"
+    },
+    {
+      "file": "system.webp",
+      "source": "BASE.CPK/CAMP/HEROTEX/P5_CAMPSYSTEM_2D.DDS",
+      "crop": [
+        798,
+        1,
+        1800,
+        862
+      ],
+      "dimensions": [
+        1002,
+        861
+      ],
+      "completeDecompression": true,
+      "sha256": "a05af65cb6758f527d67fbfaa1362858c602890849b1e84549d4ca4d0078678e"
+    },
+    {
+      "file": "coop.webp",
+      "source": "BASE.CPK/CAMP/HEROTEX/P5_CAMPCOOP_2D01.DDS",
+      "crop": [
+        0,
+        26,
+        1500,
+        1013
+      ],
+      "dimensions": [
+        1500,
+        987
+      ],
+      "completeDecompression": true,
+      "sha256": "c13c7994d923f1aa1ac271005af11a8eff00a6eb3b64e431efb5c55e073e139a"
+    },
+    {
+      "file": "party.webp",
+      "source": "BASE.CPK/CAMP/HEROTEX/P5_CAMPPARTY_2D02.DDS",
+      "crop": [
+        0,
+        0,
+        1765,
+        1017
+      ],
+      "dimensions": [
+        1600,
+        922
+      ],
+      "completeDecompression": true,
+      "sha256": "4b887587fd1490e71d42f78f8f0d0de2522184b12b8fb70d0bb4a8b89b9a3b68"
+    }
+  ],
+  "fontProvenance": "research/ROYAL_FONT_PROVENANCE.md",
+  "assetOwner": "Atlus / Sega, supplied in the user\u2019s local game archives",
+  "generatedArtwork": false,
+  "additionalAssets": [
+    {
+      "file": "ground.webp",
+      "source": "BASE.CPK/CAMP/P5_TITLE2D.DDS",
+      "bytes": 71288,
+      "sha256": "ba6cc0520195383fe4767b09b71cf5ff0d7c933a71149d4723876dfcfdc0ebff"
+    },
+    {
+      "file": "stars.webp",
+      "source": "EN.CPK/INIT/P5CAMP_00SPD.SPD",
+      "spriteId": 634,
+      "bytes": 13230,
+      "sha256": "66ff4a32662babc66b3ddedaa0e69db6b47d260b63c80ce48bd156d310aa78ac"
+    },
+    {
+      "file": "impact.webp",
+      "source": "EN.CPK/INIT/P5CAMP_00SPD.SPD",
+      "spriteId": 36,
+      "bytes": 8704,
+      "sha256": "bbe655bd7f5625c0c3757e115a1e9b25050ce3cc796186f5f136377159b09b62"
+    },
+    {
+      "file": "brush.webp",
+      "source": "EN.CPK/INIT/P5CAMP_00SPD.SPD",
+      "spriteId": 52,
+      "bytes": 7382,
+      "sha256": "dd64cd8fa2009f59cf49cf11e99698a72e0d823b1f6b3cb89205eff61b758e40"
+    },
+    {
+      "file": "spark.webp",
+      "source": "EN.CPK/INIT/P5CAMP_00SPD.SPD",
+      "spriteId": 945,
+      "bytes": 2108,
+      "sha256": "34fa540f3c4013683273558575e878fbd9fd70d040bb53931720383704146722"
+    },
+    {
+      "file": "arrow.webp",
+      "source": "EN.CPK/INIT/P5CAMP_00SPD.SPD",
+      "spriteId": 1081,
+      "bytes": 536,
+      "sha256": "48ffc66e89c2bb6a8059f42c7f0af2f592f26f59608704361e5d7317b28ca1b1"
+    },
+    {
+      "file": "menu-jump.glb",
+      "model": "BASE.CPK/INIT/MENU_C0001_001_A.GMD",
+      "animation": "BASE.CPK/INIT/MENU_C0001_001_A.GAP",
+      "baseTrack": 100,
+      "clip": "menu_jump",
+      "materials": "Translated to a flat ink silhouette for browser transition use",
+      "bytes": 1235808,
+      "sha256": "b8c4b485a625ff92d97b1949b751b6502814dfaebce8f6908101050e321ea3cd"
+    },
+    {
+      "file": "fracture.json",
+      "source": "BASE.CPK/CAMP/CMP_SYSTEM.GMD",
+      "baseTrack": 0,
+      "conversion": "18 projected samples at 30fps; original mesh faces and bone transforms, browser ink/stroke treatment and stage scaling",
+      "bytes": 1801076,
+      "sha256": "67b93c899c66ce100c7d957fb8987c5b3e90430d563eabe19dd3cc0b807ace7e"
+    }
+  ],
+  "shopAssets": [
+    {
+      "file": "iwai.webp",
+      "source": "BASE.CPK/FACILITY/BG_DDS/WEAPON_TOP_2D.DDS",
+      "crop": [
+        0,
+        8,
+        1730,
+        1039
+      ],
+      "dimensions": [
+        1600,
+        954
+      ],
+      "sha256": "8680c3dfad630a23df6c387f12e43f4e9639ca3b5159b9911e695b8ec40be34f"
+    },
+    {
+      "file": "iwai-inspect.webp",
+      "source": "BASE.CPK/FACILITY/BG_DDS/WEAPON_BUY_PLAYER_SELECT_2D.DDS",
+      "crop": [
+        410,
+        0,
+        1536,
+        1095
+      ],
+      "dimensions": [
+        1126,
+        1095
+      ],
+      "sha256": "ced6a4da0f23c0fba44c301f2acbf1cfaf78b1a2dea5ca0d0973fdc8c8d08d07"
+    },
+    {
+      "file": "takemi.webp",
+      "source": "BASE.CPK/FACILITY/BG_DDS/ITEM_TOP_2D.DDS",
+      "crop": [
+        39,
+        60,
+        750,
+        699
+      ],
+      "dimensions": [
+        711,
+        639
+      ],
+      "sha256": "d16fbcea06f0c258744654f197c7dc116bf51dabc6790c7ba18fd92d8f07ad36"
+    },
+    {
+      "file": "takemi-inspect.webp",
+      "source": "BASE.CPK/FACILITY/BG_DDS/ITEM_BUY_2D.DDS",
+      "crop": [
+        432,
+        0,
+        1536,
+        810
+      ],
+      "dimensions": [
+        1104,
+        810
+      ],
+      "sha256": "d55047d7d9264e1ff98539873cf0b0692331fb44deb6d12c70f0992cdd446abf"
+    },
+    {
+      "file": "camo.webp",
+      "source": "BASE.CPK/FACILITY/CAMO_TEST.DDS",
+      "crop": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "f3a4453fd37cbda5149299eb17785e154f3c8ff38d16abc49e26b3ece0463a3b"
+    },
+    {
+      "file": "velvet-ground.webp",
+      "source": "BASE.CPK/FACILITY/MEMENTOS_SHOPBG.DDS",
+      "crop": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "784f0309da29bb63cad3ff109c44525e47bf8abf74501eebee782d8697c57321"
+    },
+    {
+      "file": "card-back.webp",
+      "source": "BASE.CPK/CAMP/CARDTEX/C_CARD_URA.DDS",
+      "crop": [
+        0,
+        0,
+        512,
+        1024
+      ],
+      "dimensions": [
+        512,
+        1024
+      ],
+      "sha256": "26067f1a77518b8c3c5697f8f448cd600b97366ce47d9534e574a1427ffab7b1"
+    }
+  ],
+  "starfield": {
+    "file": "starfield.svg",
+    "source": "BASE.CPK/INIT/CAMPBGSTARANIME.DAT",
+    "nativeFields": "49 star positions, scales, rotations and colours",
+    "reconstructed": "Concentric star polygon outlines; full native animation format not decoded",
+    "details": "research/royal-starfield.json"
+  },
+  "city": {
+    "file": "city.webp",
+    "source": "BASE.CPK/CAMP/P5_TITLE2D.DDS",
+    "crop": [
+      0,
+      0,
+      2048,
+      1126
+    ],
+    "reason": "Exclude unused black lower region of the square texture",
+    "sha256": "652b8374c808555bb0db80d19a977a614b56f3fc0b77b3c14471a622a71d1a37"
+  },
+  "portfolioPreview": {
+    "file": "portfolio-preview.webp",
+    "source": "Browser capture of this portfolio before the dedicated homepage pass",
+    "dimensions": [
+      800,
+      500
+    ],
+    "sha256": "3de875657b7ae3d45de8c7fce618d3902213c6500fc54efaebf6643bfd5312a9",
+    "rights": "Contains the same local-study game artwork and fan fonts; not separately cleared for redistribution"
+  }
+}
